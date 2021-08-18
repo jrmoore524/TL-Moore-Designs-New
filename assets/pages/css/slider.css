@@ -97,19 +97,19 @@
 
 /* Carousel Item Background Images */
 .carousel-slider .carousel-item-one {
-    background: url(../../../assets/onepage/img/slider/slide1.jpg);
+    background: url(../../../assets/pages/img/shirts.jpg);
     background-size: cover;
     background-position: center center;
 }
 
 .carousel-slider .carousel-item-two {
-    background: url(../../../assets/onepage/img/slider/slide2.jpg);
+    background: url(../../../assets/onepage/img/slider/slide2/bg.jpg);
     background-size: cover;
     background-position: center center;
 }
 
 .carousel-slider .carousel-item-three {
-    background: url(../../../assets/onepage/img/slider/slide3.jpg);
+    background: url(../../../assets/onepage/img/slider/slide3.bgjpg);
     background-size: cover;
     background-position: center center;
 }
