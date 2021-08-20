@@ -787,9 +787,10 @@
 /* END max width 330px */
 
 /* BEGIN max width 320px */
-@media (max-width: 320px) {
+@media (max-width: 390px) {
 	.site-logo {
 		margin-right: 0;
+		padding-top: 0;
 	}
 	.content-form-page .btn-default {
 		margin-top: 10px;
