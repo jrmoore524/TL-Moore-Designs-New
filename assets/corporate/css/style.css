@@ -462,7 +462,7 @@ body.page-header-fixed {
 
 .header .mobi-toggler {
   float: right;
-  color: #D8D8D8;
+  color: #E02222;
   border: 1px solid #D8D8D8;
   border-radius: 100% !important;
   width: 32px;
@@ -470,7 +470,7 @@ body.page-header-fixed {
   display: none;
   margin: 25px 0 0 30px;
   position: relative;
-  background: #fff url(../img/icons/toggler.png) no-repeat 6px 8px;
+  background: #E02222 url(../img/icons/toggler.png) no-repeat 6px 8px;
 }
 .header .mobi-toggler i {
   display: none;
