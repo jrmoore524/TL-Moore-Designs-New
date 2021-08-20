@@ -137,7 +137,7 @@ Header and header elements
 	font: 400 13px 'Open Sans', Arial, sans-serif;
 }
 .ecommerce .header .mobi-toggler {
-	margin-top: 30px;
+	margin-top: 0px;
 }
 .ecommerce .reduce-header .mobi-toggler,
 .reduce-header .top-cart-block {
