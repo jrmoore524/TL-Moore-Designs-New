@@ -470,7 +470,7 @@ body.page-header-fixed {
   display: none;
   margin-left: 300px;
   margin-top: 200px;
-  position: fixed;
+  position: absolute;
   background: #E02222 url(../img/icons/toggler.png) no-repeat 6px 8px;
 }
 .header .mobi-toggler i {
