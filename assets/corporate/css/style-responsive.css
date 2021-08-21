@@ -79,7 +79,7 @@
 /* END min width 1025px max width 1205 */
 
 /* BEGIN max width 1024px */
-@media (max-width: 1024px) {
+@media (max-width: 1000px) {
 	body.page-header-fixed {
 		padding-top: 107px !important; /* height of the header */
 	}
