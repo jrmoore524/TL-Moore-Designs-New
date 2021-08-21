@@ -451,10 +451,10 @@ body.page-header-fixed {
 }
 
 .site-logo {
+  color: #e45000;
   float: left;
   font-size: 23px;
   font-weight: 400;
-
   margin-right: 67px;
   padding-top: 22px;
   padding-bottom: 22px;

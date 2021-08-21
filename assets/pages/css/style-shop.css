@@ -43,10 +43,12 @@ Header and header elements
 	font-size: 3em;
 	padding-top: 20px;
 	padding-bottom: 27px;
-	color: #e45000;
+	color: black;
 	margin-right: 30px;
 	font-family: "PT Sans Narrow", sans-serif;
 }
+
+
 .ecommerce .reduce-header .site-logo {
 	padding-top: 16px;
 	padding-bottom: 18px;
