@@ -69,6 +69,7 @@ Header and header elements
 .ecommerce .header-navigation > ul > li > a {
 	color: #767f88;
 	padding: 34px 12px 32px;
+	margin-left: 20px;
 }
 .ecommerce .header-navigation ul > li.active > a,
 .ecommerce .header-navigation ul > li > a:hover,
