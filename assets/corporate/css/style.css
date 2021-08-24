@@ -446,7 +446,7 @@ body.page-header-fixed {
 
 .header .container {
   position: relative;
-  width: 100%;
+  width: 1200px;
 }
 .ie8 .header {
 	border-bottom: 1px solid #eee;
