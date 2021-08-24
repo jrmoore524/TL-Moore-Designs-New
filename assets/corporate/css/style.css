@@ -492,7 +492,7 @@ body.page-header-fixed {
 	text-transform: uppercase;
 }
 .header-navigation ul {
-	margin: 0;
+	margin-left: 0;
 	padding: 0;
 	list-style: none;
 }
